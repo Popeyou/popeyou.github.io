@@ -28,3 +28,7 @@ body {
    text-decoration: none; 
    background-color: none;
 }
+
+.grey{
+  color: grey;
+}
