@@ -1,10 +1,9 @@
 body {
-    /*background-color: #cac6b1;*/
+    background-color: #cac6b1;
     /*background: 
 	  linear-gradient(0deg, rgb(119, 119, 179), rgba(0,0,0,0));*/
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.2rem;
-    background: radial-gradient(at center bottom, rgb(245, 245, 244), rgb(254, 215, 170), rgb(227, 236, 245));
+    /*background: radial-gradient(at center bottom, rgb(245, 245, 244), rgb(254, 215, 170), rgb(227, 236, 245));*/
   }
 
 .div1{
