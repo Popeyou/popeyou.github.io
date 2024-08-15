@@ -1,5 +1,8 @@
+
+
 body {
     background-color: #cac6b1;
+    font-family: 'Courier New', Courier, monospace
   }
 
 div{
@@ -7,6 +10,12 @@ div{
     top: 40%;
     left: 50%;
     margin-top: -50px;
-    margin-left: -50px;
-    
+    margin-left: -50px;   
+}
+
+.notblu
+{
+   color:black;
+   text-decoration: none; 
+   background-color: none;
 }
